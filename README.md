@@ -4,7 +4,7 @@
 
 - **Term**: Fall 2025  
 - **Language**: N/A (theoretical course, computation may use calculators or basic tools)  
-- **Instructor**: Professor Michael Levine (mlevins@purdue.edu)
+- **Instructor**: Dr. Michael Levine (mlevins@purdue.edu)
    
 
 ## Course Description
