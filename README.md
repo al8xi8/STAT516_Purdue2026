@@ -2,9 +2,9 @@
 
 ## Course Overview
 
-- **Term**: Fall 2025  
+- **Term**: Summer 2026  
 - **Language**: N/A (theoretical course, computation may use calculators or basic tools)  
-- **Instructor**: Dr. Michael Levine (mlevins@purdue.edu)
+- **Instructor**: Dr. Yu Lin (lin1652@purdue.edu)
    
 
 ## Course Description
